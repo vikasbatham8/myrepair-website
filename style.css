@@ -1,0 +1,627 @@
+body{
+    padding: none;
+    background-color: rgba(255, 255, 255, 0.986)
+
+}
+
+head{
+    background-color:black;
+    
+}
+#insta-icon{
+    position: absolute;
+width: 35px;
+height: 33px;
+left: 1104px;
+top: 17px;
+
+}
+#fab-icon{
+    position: absolute;
+    width: 35px;
+    height: 33px;
+    left: 1214px;
+    top: 17px;
+}
+
+#title-img{
+    position: absolute;
+    width: 86px;
+    height: 86px;
+    left: 36px;
+    top: 33px;
+}
+#heading-title{
+    
+position: absolute;
+width: 218px;
+height: 62px;
+left: 125px;
+top: 30px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 52px;
+
+color: #463E3E;
+
+}
+#slog{
+position: absolute;
+width: 142px;
+height: 29px;
+left: 127px;
+top: 70px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 23px;
+
+color: #463E3E;
+}
+#home{
+    text-decoration: none;
+    position: absolute;
+width: 84px;
+height: 24px;
+left: 355px;
+
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+
+color: #000000;
+}
+#Service{
+    text-decoration: none;
+    position: absolute;
+width: 174px;
+height: 24px;
+left: 441px;
+
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+
+color: #000000;
+
+}
+#taskbar{
+    position: absolute;
+width: 1085px;
+height: 40px;
+left: 258px;
+top: 75px;
+
+background: #ffffff;
+border: 1px solid #000000;
+box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+}
+#Appointment{
+    text-decoration: none;
+    position: absolute;
+width: 126px;
+height: 24px;
+left: 527px;
+
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+
+color: #000000;
+}
+#Contact{
+    text-decoration: none;
+    position: absolute;
+width: 154px;
+height: 24px;
+left: 655px;
+
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+
+color: #000000;
+
+}
+#About{
+    text-decoration: none;
+    position: absolute;
+width: 154px;
+height: 24px;
+left: 770px;
+
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+
+color: #000000;
+
+}
+#instagram{
+    text-decoration: none;
+    position: absolute;
+width: 136px;
+height: 45px;
+left: 1150px;
+top: 20px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 32px;
+
+color: #000000;
+
+
+}
+#facebook{
+    text-decoration: none;
+    position: absolute;
+    width: 136px;
+    height: 45px;
+    left: 1251px;
+    top: 20px;
+    
+    font-family: 'Judson';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 32px;
+    
+    color: #000000;
+    
+}
+h3{
+    position: absolute;
+width: 366px;
+height: 71px;
+left: 306px;
+
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+
+color: #000000;
+
+}
+.landing-page{
+    position: absolute;
+    width: 1332px;
+    height: 345px;
+    left: 9px;
+    top: 130px;
+    
+    background: #F9F9F9;
+    border: 1px solid #090808;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    
+}
+#langing-imag{
+    position: absolute;
+width: 509px;
+height: 327px;
+left: 741px;
+top: 9px;
+border-radius: 10px;
+}
+h4{
+    position: absolute;
+width: 401px;
+height: 149px;
+left: 204px;
+top: 50px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 32px;
+
+color: #000000;
+}
+#call{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 248px;
+    height: 60px;
+    left: 223px;
+    top: 200px;
+    
+    background: #F4F1F1;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 100px;
+}
+#Service-text{
+    position: absolute;
+width: 75px;
+height: 19px;
+left: 651px;
+top: 480px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+}
+#RO{
+    box-sizing: border-box;
+
+position: absolute;
+width: 190px;
+height: 257px;
+left: 35px;
+top: 540px;
+
+background: #F9F5F5;
+border: 1px solid #000000;
+box-shadow: 0px 10px 0px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+#WM{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 188px;
+height: 257px;
+left: 253px;
+top: 540px;
+
+background: #FFFEFE;
+border: 1px solid #000000;
+box-shadow: 0px 10px 0px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+}
+#AC{
+    box-sizing: border-box;
+
+position: absolute;
+width: 188px;
+height: 257px;
+left: 476px;
+top: 540px;
+
+background: #FFFCFC;
+border: 1px solid #000000;
+box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+#EL{
+    box-sizing: border-box;
+
+position: absolute;
+width: 188px;
+height: 257px;
+left: 696px;
+top: 540px;
+
+background: #F5F5F5;
+border: 1px solid #000000;
+box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+#PL{
+    box-sizing: border-box;
+
+position: absolute;
+width: 188px;
+height: 257px;
+left: 926px;
+top: 540px;
+
+background: #F9F9F9;
+border: 1px solid #000000;
+box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+#Ro-text{
+    position: absolute;
+width: 148px;
+height: 37px;
+left: 85px;
+top: 728px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+}
+#Ro-img{
+    position: absolute;
+width: 112px;
+height: 124px;
+left: 79px;
+top: 581px;
+
+
+}
+#WM-img{
+    position: absolute;
+    width: 114px;
+    height: 114px;
+    left: 294px;
+    top: 581px;
+}
+#WmT-text{
+    position: absolute;
+width: 211px;
+height: 50px;
+left: 290px;
+top: 728px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+}
+#AC-img{
+    position: absolute;
+width: 126px;
+height: 112px;
+left: 511px;
+top: 581px;
+
+}
+#ACT-text{
+    position: absolute;
+width: 143px;
+height: 45px;
+left: 521px;
+top: 728px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+}
+#EL-img{
+    position: absolute;
+width: 126px;
+height: 112px;
+left: 735px;
+top: 581px;
+}
+#ELT-text{
+    position: absolute;
+width: 211px;
+height: 50px;
+left: 755px;
+top: 728px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+}
+#PL-img{
+    position: absolute;
+width: 131px;
+height: 116px;
+left: 954px;
+top: 581px;
+
+}
+#more1{
+    position: absolute;
+    width: 45px;
+height: 45px;
+top: 20px;
+left: 30px;
+
+}
+#more{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 106px;
+height: 92px;
+left: 1150px;
+top: 620px;
+
+background: #FFFBFB;
+border: 1px solid #000000;
+box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+border-radius: 100px;
+}
+#PLT-text{
+    
+position: absolute;
+width: 211px;
+height: 50px;
+left: 984px;
+top: 728px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+}
+.Services-div{
+    position: absolute;
+height: 500px;
+width: 900px;
+left: 10px;
+
+}
+.team{
+box-sizing: border-box;
+
+position: absolute;
+width: 1279px;
+height: 474px;
+top: 850px;
+left: 20px;
+
+background: #FFFCFC;
+border: 1px solid #000000;
+box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+#team1{
+    position: absolute;
+width: 470px;
+height: 370px;
+left: 800px;
+top: 40px;
+
+border-radius: 20px;
+}
+#team-des{
+    position: absolute;
+width: 325px;
+height: 148px;
+left: 100px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 52px;
+
+color: #000000;
+
+}
+#describe{
+    position: absolute;
+width: 576px;
+height: 87px;
+left: 100px;
+top: 200px;
+
+font-family: 'Judson';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #000000;
+
+}
+#readmore{
+    background-color: rgb(11, 170, 38);
+    position: absolute;
+width: 161px;
+height: 48px;
+left: 100px;
+top:320px ;
+
+
+border-radius: 100px;
+}
+.team2{
+    box-sizing: border-box;
+    
+    position: absolute;
+    width: 1279px;
+    height: 474px;
+    top: 1350px;
+    left: 20px;
+    
+    background: #FFFCFC;
+    border: 1px solid #000000;
+    box-shadow: 0px 10px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    }
+    #team2{
+        position: absolute;
+    width: 470px;
+    height: 370px;
+    left: 20px;
+    top: 40px;
+    
+    border-radius: 20px;
+    }
+    #team-des2{
+        position: absolute;
+    width: 325px;
+    height: 148px;
+    left: 600px;
+    
+    font-family: 'Judson';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 52px;
+    
+    color: #000000;
+    
+    }
+    #describe2{
+        position: absolute;
+    width: 576px;
+    height: 87px;
+    left: 600px;
+    top: 200px;
+    
+    font-family: 'Judson';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000;
+    
+    }
+    #readmore2{
+        background-color: rgb(11, 170, 38);
+        position: absolute;
+    width: 161px;
+    height: 48px;
+    left: 1000px;
+    top:320px ;
+    
+    
+    border-radius: 100px;
+    }
